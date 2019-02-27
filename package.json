@@ -1,5 +1,5 @@
 {
-  "name": "AmpsLearning",
+  "name": "Merlin",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application.",
@@ -12,10 +12,6 @@
     "postinstall": "node node_modules/strapi/lib/utils/post-install.js"
   },
   "devDependencies": {
-    "@babel/core": "^7.3.4",
-    "@babel/polyfill": "^7.2.5",
-    "@babel/preset-env": "^7.3.4",
-    "@babel/register": "^7.0.0",
     "babel-eslint": "^7.1.1",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^13.0.0",
@@ -23,7 +19,6 @@
     "eslint-plugin-react": "^7.7.0"
   },
   "dependencies": {
-    "convict": "^4.4.1",
     "lodash": "^4.17.5",
     "strapi": "3.0.0-alpha.24.1",
     "strapi-hook-mongoose": "3.0.0-alpha.24.1"
@@ -42,7 +37,7 @@
   ],
   "strapi": {
     "packageManager": "npm",
-    "uuid": "c120e968-a9f4-4cb4-a5f1-05a4203d09bc"
+    "uuid": "226f9c7e-36b4-4065-8179-219c93092d79"
   },
   "engines": {
     "node": ">= 10.0.0",

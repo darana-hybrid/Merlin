@@ -7,7 +7,7 @@
         "client": "mongo",
         "host": "development-cqslr.mongodb.net",
         "port": 27017,
-        "database": "AmpsLearning_DB",
+        "database": "Merlin_DB",
         "username": "db-user_dev",
         "password": "KanyeWestFTW!2",
         "srv": true
