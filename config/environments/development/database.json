@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "client": "mongo",
+        "host": "development-cqslr.mongodb.net",
+        "port": 27017,
+        "database": "AmpsLearning_DB",
+        "username": "db-user_dev",
+        "password": "KanyeWestFTW!2",
+        "srv": true
+      },
+      "options": {
+        "ssl": true
+      }
+    }
+  }
+}
