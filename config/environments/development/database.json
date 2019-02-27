@@ -5,10 +5,10 @@
       "connector": "strapi-hook-mongoose",
       "settings": {
         "client": "mongo",
-        "host": "development-cqslr.mongodb.net",
+        "host": "merlin-cluster-cqslr.mongodb.net",
         "port": 27017,
-        "database": "AmpsLearning_DB",
-        "username": "db-user_dev",
+        "database": "Merlin_DB_dev",
+        "username": "Merlin-User_DB_dev",
         "password": "KanyeWestFTW!2",
         "srv": true
       },
